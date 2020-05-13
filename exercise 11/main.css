@@ -1,0 +1,17 @@
+
+ h1{
+      color: red;
+      border-bottom: 1px solid red;
+ }
+ p{
+margin-left: 100px;
+font-size: small; font-family: sans-serif;
+  }
+ h2{
+color: red;
+ margin-left: 100px;
+   }
+   img {
+    float: right;
+    margin: 0 12px;
+   }
